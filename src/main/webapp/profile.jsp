@@ -8,7 +8,8 @@
     <title>Home</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
-    <nav class="navbar navbar-expand-lg" style="background-color: var(- -white); box-shadow: 0px 5px 6px #00000029; height: 150px; left: 0; position: fixed; top: 0; width: 1920px; z-index: 3;">
+    <nav class="navbar navbar-expand-lg" 
+    style="background-color: var(- -white); box-shadow: 0px 5px 6px #00000029; height: 150px; left: 0; position: fixed; top: 0; width: 1920px; z-index: 3;">
         <a class="navbar-brand" href="#" style="left: 120px; position: fixed; z-index: 9;"><img
                 src="images/furneesh.png"></a>
         <div class="collapse navbar-collapse" id="navbarNavDropdown">
