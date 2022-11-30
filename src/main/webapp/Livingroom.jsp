@@ -8,7 +8,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Cart</title>
+    <title>Living Room</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
 </head>
@@ -39,14 +39,22 @@
         </div>
     </nav>
 </header>
-
-</head>
 <body>
 <center>
+<img src="https://cdn.shopify.com/s/files/1/0261/9879/products/MILLER-MOOD-GREY-Sofa-Singapore-LShape-Candace2-16_2048x2048.jpg?v=1648109219"  alt="Candace LShape Fabric Sofa (Custom) Retail price : $2500" width="500" height="500">
+<br>Candace LShape Fabric Sofa (Custom)</br>
+<br>Colour : Grey</br>
+<br>Retail price : $2500</br>
+<br><input type="submit" value="Add to cart" /></br>
 <br><img src="https://www.cellini.com.sg/image/cache/catalog/furniture/DS/Bolda/1665%20x%201283%20Grigio/Bolda-Grigio-2-Chairs-1-Bench2-832x641.jpg"  alt="Bolda Grey Quartz Top Dining Table 1.8m Retail price : $2000" width="500" height="500"></br>
 <br>Bolda Grey Quartz Top Dining Table 1.8m</br>
 <br>Retail price : $2000</br>
-<br><input type="submit" value="Delete from cart" /></br>
+<br><input type="submit" value="Add to cart" /></br>
+<br><img src="https://www.ikea.com/sg/en/images/products/vimle-2-seat-sofa-gunnared-medium-grey__0951873_pe801412_s5.jpg?f=s"  alt="VIMLE 2-seat sofa, Gunnared medium grey Retail price : $800" width="500" height="500"></br>
+<br>VIMLE 2-seat sofa, Gunnared medium grey</br>
+<br>Retail price : $800</br>
+<br><input type="submit" value="Add to cart" /></br>
 </center>
+</form>
 </body>
 </html>
