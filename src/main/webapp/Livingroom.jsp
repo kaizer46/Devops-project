@@ -29,7 +29,7 @@
                 <li class="nav-item"><a class="nav-link" href="explore.jsp"
                         style="font-size: 25px; left: 1503px; letter-spacing: 0; line-height: 25px; position: fixed; top: 50px; white-space: nowrap; z-index: 6;">Explore</a>
                 </li>
-                <li class="nav-item"><a class="nav-link" href="#"
+                <li class="nav-item"><a class="nav-link" href="profile.jsp"
                         style="font-size: 25px; left: 1634px; letter-spacing: 0; line-height: 25px; position: fixed; top: 50px; white-space: nowrap; z-index: 5;">Account</a>
                 </li>
                 <li class="nav-item"><a class="nav-link" href="Cart.jsp"

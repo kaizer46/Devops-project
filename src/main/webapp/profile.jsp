@@ -1,9 +1,7 @@
-<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
-    pageEncoding="ISO-8859-1"%>
-    
+
+
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -40,30 +38,45 @@
 </header>
 
 <body>
-    <div><img src="images/homebackground.jpg" style="width: 100%;">
-        <div class="rectangle-1"></div>
-        <div class="group-2">
-            <a class="nav-link" href="explore.jsp"
-                style="align-items: flex-end; border: 3px solid; border-color: white; border-radius: 5px; height: 60px; left: 885px; min-width: 150px; padding: 12px 21px; position: absolute; top: 657px; color: white; font-size: 27px; font-weight: 400; letter-spacing: 0; line-height: 27px; min-height: 38px; min-width: 90px; text-align: center; white-space: nowrap;">Explore</a>
-        </div>
-        <h1 class="title"
-            style="color: white; font-size: 70px; font-weight: 400; left: 559px; letter-spacing: 0; line-height: 70px; position: absolute; text-align: center; top: 493px; white-space: nowrap;">
-            looking for new furniture?</h1>
-    </div>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"
-        integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4"
-        crossorigin="anonymous"></script>
-    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js"
-        integrity="sha384-oBqDVmMz9ATKxIep9tiCxS/Z9fNfEXiDAYTujMAeBAsjFuCZSmKbSSUnQlmh/jp3"
-        crossorigin="anonymous"></script>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.min.js"
-        integrity="sha384-cuYeSxntonz0PPNlHhBs68uyIAVpIIOZZ5JqeqvYYIcEL727kskC66kF92t6Xl2V"
-        crossorigin="anonymous"></script>
+	<div style="padding-left: 100px">
+	<div  style="border-style: solid;border-color: black;width: 250px;height: 50px;padding:40px 0 ;margin:300px;padding-top: 10px; padding-left: 30px">
+	<h1 style="letter-spacing: 1px;">Account</h1>
+	</div>
+<br>
+		<div style="width: 5000px; height: 100px; display: flex; flex-wrap: wrap; align-content: center;">
+			<img
+				style="vertical-align: middle; width: 50px; height: 50px; border-radius: 50%; margin-left:100px;"
+				src="https://img.icons8.com/ios-glyphs/512/user.png" alt="Avatar"
+				class="avatar">
+			<h3 style="vertical-align: middle; padding-left: 20px;">peter</h3>
+			<h4 style="vertical-align: middle; padding-left: 1150px">recent purchases</h4>
+		</div>
+		<br>
+		<p style="padding-left: 50px;">Description</p>
+		<div class="container" style="position:relative;left: 700px;padding:10px">
+   <img src="https://cdn.shopify.com/s/files/1/0261/9879/products/MILLER-MOOD-GREY-Sofa-Singapore-LShape-Candace2-16_2048x2048.jpg?v=1648109219"  alt="Candace LShape Fabric Sofa (Custom) Retail price : $2500" 
+   width="200" height="200" style="position:relative;bottom:100px;left: 100px ">
+
+    <img src="https://www.ikea.com/sg/en/images/products/vimle-2-seat-sofa-gunnared-medium-grey__0951873_pe801412_s5.jpg?f=s"  alt="VIMLE 2-seat sofa, Gunnared medium grey Retail price : $800" 
+    width="200" height="200" style="position:relative;top: 100px;right:100px">
+</div>
+		<textarea
+			style="margin-left: 50px; padding-right: 150px;padding-bottom: 100px;position:relative;bottom: 200px">
+I like couches.
+</textarea>
+<br>
+
+
+	</div>
+	<div>
+	</div>
+
+
+
+	
+	<!-- Create a form with the action attribute to specific where to send the form-data when
+the form is submitted, method attribute to specific the method used (GET, POST, PUT, DELETE,
+Etc.) -->
+
 </body>
-
-<footer>
-    <div class="rectangle-21"
-        style="background-color: #9a9a9a; height: 57px; width: 100%; z-index: 1; position: absolute;"></div>
-</footer>
-
 </html>

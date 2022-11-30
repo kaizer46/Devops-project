@@ -10,6 +10,7 @@
         integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
 </head>
 
+
 <header>
     <nav class="navbar navbar-expand-lg bg-light"
         style="box-shadow: 0px 5px 6px #00000029; height: 150px; left: 0; position: fixed; top: 0; width: 1920px; z-index: 3;">
@@ -26,10 +27,10 @@
                 <li class="nav-item"><a class="nav-link" href="explore.jsp"
                         style="font-size: 25px; left: 1503px; letter-spacing: 0; line-height: 25px; position: fixed; top: 50px; white-space: nowrap; z-index: 6;">Explore</a>
                 </li>
-                <li class="nav-item"><a class="nav-link" href="#"
+                <li class="nav-item"><a class="nav-link" href="profile.jsp"
                         style="font-size: 25px; left: 1634px; letter-spacing: 0; line-height: 25px; position: fixed; top: 50px; white-space: nowrap; z-index: 5;">Account</a>
                 </li>
-                <li class="nav-item"><a class="nav-link" href="#"
+                <li class="nav-item"><a class="nav-link" href="Cart.jsp"
                         style="height: 25px; left: 1775px; position: fixed; top: 50px; width: 25px; z-index: 4;"><img
                             src="images/shoppingcarticon.svg"></a></li>
             </ul>
