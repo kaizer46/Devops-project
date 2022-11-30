@@ -31,7 +31,7 @@
                 <li class="nav-item"><a class="nav-link" href="#"
                         style="font-size: 25px; left: 1634px; letter-spacing: 0; line-height: 25px; position: fixed; top: 50px; white-space: nowrap; z-index: 5;">Account</a>
                 </li>
-                <li class="nav-item"><a class="nav-link" href="#"
+                <li class="nav-item"><a class="nav-link" href="Cart.jsp"
                         style="height: 25px; left: 1775px; position: fixed; top: 50px; width: 25px; z-index: 4;"><img
                             src="images/shoppingcarticon.svg"></a></li>
             </ul>

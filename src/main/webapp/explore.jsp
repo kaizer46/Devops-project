@@ -31,7 +31,7 @@
                 <li class="nav-item"><a class="nav-link" href="#"
                         style="font-size: 25px; left: 1634px; letter-spacing: 0; line-height: 25px; position: fixed; top: 50px; white-space: nowrap; z-index: 5;">Account</a>
                 </li>
-                <li class="nav-item"><a class="nav-link" href="#"
+                <li class="nav-item"><a class="nav-link" href="Cart.jsp"
                         style="height: 25px; left: 1775px; position: fixed; top: 50px; width: 25px; z-index: 4;"><img
                             src="images/shoppingcarticon.svg"></a></li>
             </ul>
@@ -51,7 +51,7 @@
     </div>
     <div class="group-container"
         style="align-items: flex-start; display: flex; gap: 50px; margin-top: 90px; margin-left: 445px; min-width: 1030px; z-index: 3;">
-        <a class="nav-link" href="#"><img src="images/livingroom.jpg"
+        <a class="nav-link" href="Livingroom.jsp"><img src="images/livingroom.jpg"
                 style="align-items: flex-start; background-size: 100% 100%; display: flex; min-width: 310px;">
             <div class="overlap-group5">
                 <div class="living-room"
