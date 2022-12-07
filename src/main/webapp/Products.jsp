@@ -67,7 +67,7 @@
 <br><input type="submit" value="Add to cart" /></br>
 <br><img src="https://www.ikea.com/sg/en/images/products/vimle-2-seat-sofa-gunnared-medium-grey__0951873_pe801412_s5.jpg?f=s"  alt="VIMLE 2-seat sofa, Gunnared medium grey Retail price : $800" width="500" height="500"></br>
 <br>VIMLE 2-seat sofa, Gunnared medium grey</br>
-<br>Retail price : $800</br>
+<br>Retail price : $8000</br>
 <br><input type="submit" value="Add to cart" /></br>
 </center>
 </form>
