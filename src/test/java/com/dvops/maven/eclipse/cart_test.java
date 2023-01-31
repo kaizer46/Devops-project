@@ -36,7 +36,9 @@ class cart_test {
 
 	@Test
 	void testGetCart() {
-		fail("Not yet implemented");
+	//fail("Not yet implemented");
+		List<Furniture> testC = C.getCart();
+		assertEquals(testC.size(), CARTSIZE);	
 	}
 
 	@Test
